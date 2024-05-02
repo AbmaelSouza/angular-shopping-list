@@ -4,3 +4,10 @@
         color: black !important;;
     }
 }
+
+.dropdown{
+    >a.dropdown-toggle , >ul.dropdown-menu li a{
+        cursor: pointer;
+    }
+     
+}

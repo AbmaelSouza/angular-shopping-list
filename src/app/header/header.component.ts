@@ -6,9 +6,4 @@ import { Component, EventEmitter, Input, Output } from '@angular/core';
   styleUrl: './header.component.scss'
 })
 export class HeaderComponent {
-@Output() routeEvent = new EventEmitter<string>();
-@Input() route:string;
-routeEventTrigger(route:string){
-  this.routeEvent.emit(route);
-}
 }
