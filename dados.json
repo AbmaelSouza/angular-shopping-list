@@ -1,0 +1,114 @@
+[
+    {
+        "nome": 
+            "Patricia de Bonfim Chicora"
+        ,
+        "dados_pessoais": {
+            "estado_civil": "Casada",
+            "data_nascimento": "27/07/1999",
+            "endereco": "Av. Abatia 312 Jardim Roma, Almirante Tamandaré – PR",
+            "telefone": "(41)9 8488-5350",
+            "recado": "(41)9 9292-9597",
+            "email": "patricia.b.chicora@gmail.com"
+        },
+        "objetivo": [
+            "Auxiliar de Produção",
+            "Varejo"
+        ],
+        "formacao_academica": [
+            "Ensino Médio Completo"
+        ],
+        "habilidades_tecnicas": [
+            "Conhecimentos básicos da informática e internet adquiridos de forma autodidata."
+        ],
+        "experiencias_profissionais": [
+            {
+                "empresa": "WMS SUPERMERCADOS DO BRASIL LTDA.",
+                "funcao": "Operador(a) de Loja (intermitente)",
+                "periodo": "06/2020 a 04/2021"
+            },
+            {
+                "empresa": "SUPERMERCADO VERA CRUZ.",
+                "funcao": "Balconista de Padaria",
+                "periodo": "05/2021 a 08/2022"
+            },
+            {
+                "empresa": "FOUR HANDS GESTAO DE RECURSOS HUMANOS LTDA.",
+                "funcao": "Auxiliar de Produção (Temporário)",
+                "periodo": "09/2022 a 03/2023"
+            },
+            {
+                "empresa": "LAVEBRAS GESTAO DE TEXTEIS S.A",
+                "funcao": "Auxiliar de Lavanderia",
+                "periodo": "09/2023 a 12/2023"
+            },
+            {
+                "empresa": "FOUR HANDS GESTAO DE RECURSOS HUMANOS LTDA.",
+                "funcao": "Auxiliar de Produção (Temporário)",
+                "periodo": "01/2024 a 03/2024"
+            }
+        ],
+        "observacoes": [
+            "Responsável, prestativa, facilidade em adaptação, bom relacionamento em grupo.",
+            "Aberta a novos desafios e oportunidades para ampliar meus conhecimentos."
+        ]
+    },
+    {
+        "nome": 
+            "ABMAEL PEREIRA DE SOUZA"
+        ,
+        "dados_pessoais": {
+            "estado_civil": "Casado",
+            "data_nascimento": "07/08/1998",
+            "endereco": "Av abatia 312 – Almirante Tamandaré - PR",
+            "telefone": "(41)992929597",
+            "recado": "(41)992929597",
+            "email": "abmaelpsouza@gmail.com"
+        },
+        "objetivo": [
+            "Atuar com Desenvolvimento WEB e APP assim como desenvolver soluções padronizadas baseadas na necessidade de cada cliente.",
+            "Utilizar conhecimentos científicos químicos para desenvolvimento de produtos com base em pesquisa e desenvolvimento em empresa do ramo industrial químico."
+        ],
+        "formacao_academica": [
+            "TÉCNICO QUÍMICO em CEEP – Theodoro de bona (Aluno destaque dos anos de 2017 e 2018.)",
+            "AUTODIDÁTA EM PROGRAMAÇÃO (Livros, internet e documentações diversas.)",
+            "AUTODIDÁTA EM INGLÊS (Pronunciação, montagem de texto, diálogo.)",
+            "ANGULAR - THE COMPLETE GUIDE (2024 EDITION) - UDEMY COURSES -- Maximilian Schwarzmüller"
+        ],
+        "habilidades_tecnicas": [
+            "Angular",
+            "HTML5 (Semantic tags)",
+            "CSS (Responsive Web Design)",
+            "SCSS (Compileable, Programmatic, Nested CSS)",
+            "JavaScript (ALPINE.js, Swiper.js, jQuery)",
+            "JS & CSS Animations",
+            "Vite (Compilable, Importable JS, TypeScript)",
+            "PHP with MySQL (Laravel, Codeigniter, PHPRAW, Drupal)",
+            "CSV manipulation by hand (Any language)",
+            "PhpMyAdmin MySQL (SQL Exports, Imports, Query Mounting, Relations)",
+            "Flutter (Android + iOS, Riverpod State Management, packages)",
+            "Dart (Flutter Base Programming Language)",
+            "OpenAPI (api.yaml with Riverpod code generation)",
+            "Apache (Server Run)",
+            "SVN & Git (Version Control)",
+            "GitHub",
+            "Python (Desktop bots for games, work with video codecs, video formatting)",
+            "Boa vivência laboratorial e instrumentação, assim como compreendimento de cálculos científicos químicos e equações de reações tanto líquidas, gasosas e sólidas. Estequiometria, balanços de massa em geral"
+        ],
+        "experiencias_profissionais": [
+            {
+                "empresa": "TUXON SOLUÇÕES WEB",
+                "funcao": "Desenvolvedor WEB junior",
+                "periodo": "03/2023 – 03/2024"
+            },
+            {
+                "empresa": "CALTEC QUÍMICA INDUSTRIAL S/A",
+                "funcao": "Analista Laboratorial",
+                "periodo": "2019 – 2022"
+            }
+        ],
+        "observacoes": [
+            "Em emails ou reuniões utilizo linguagem formal em português ou inglês. Boa vivência ocupacional e comunicação."
+        ]
+    }
+]

@@ -3,10 +3,13 @@
         <app-shopping-edit></app-shopping-edit>
         <hr>
         <ul class="list-group">
-            <a class="list-group-item" style="cursor: pointer;" *ngFor="let ingredient of ingredients">
-            {{ingredient.name}} ({{ingredient.amount+ingredient.unit}})
-            </a>
-            
+            <div *ngFor="let ingredient of ingredients; let i = index">
+                <a class="list-group-item" style="cursor: pointer;" *ngIf="!ingredient.deleted">
+                  {{ ingredient.name }} ({{ ingredient.amount + ingredient.unit }}) 
+                  <button class="deleteButton" (click)="onDelete(ingredient)">delete</button>
+                </a>
+            </div>
+               
         </ul>
     </div>
 </div>
